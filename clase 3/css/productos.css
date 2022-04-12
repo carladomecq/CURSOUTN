@@ -1,0 +1,9 @@
+.footer{
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+}
+
+.parrafo1{
+    border: 5px dashed rgb(red, green, blue)
+}
